@@ -1,109 +1,163 @@
 {
   "data": {
-    "name": "Melissa Walsh",
+    "name": "Robert Ramirez",
     "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
-    "website": "https://example.com",
-    "phone": "3042034240",
-    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "address": "San José, Costa Rica",
+    "email": "rsft6000@gmail.com",
+    "website": "https://robertramdev.com/",
+    "phone": "+506 85215747",
+    "avatar": "https://user-images.githubusercontent.com/37461123/222997691-d6238822-3f86-4df1-8c93-5352bbf7b254.jpg",
+    "Profile": "I am a skilled Web Developer with a growing interest in the world of blockchain technology. With a strong foundation in Javascript, Typescript and React, I am currently expanding my expertise to include the latest blockchain development tools and frameworks. My enthusiasm for innovation and eagerness to learn make me a valuable asset to any team looking to explore the potential of blockchain technology to transform industries and create new opportunities.",
     "certificate": [
       {
-        "date": "Jan 2021",
-        "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
-        "institution": "Platzi",
-        "name": "FrontEnd Developer"
+        "date": "May 2022",
+        "description": "Solidity Smart Contract development course",
+        "institution": "Coursera - University at Buffalo",
+        "name": "Smart Contracts course"
       },
       {
-        "date": "Jan 2021",
-        "description": "Scratch at the door then walk away wack the mini furry mouse",
-        "institution": "Platzi",
-        "name": "Backend Developer"
+        "date": "Dec 2019",
+        "description": "Design Thinking principles competition",
+        "institution": "ULACIT. San José, Costa Rica.",
+        "name": "First Place Evolution Ideas"
+      },
+      {
+        "date": "Aug 2019",
+        "description": " IBM Mentoring program",
+        "institution": "IBM",
+        "name": "IBM Experience"
+      },
+      {
+        "date": "Dec 2017",
+        "description": " IBM Mentoring program",
+        "institution": "Codecademy",
+        "name": "HTML, CSS and JavaScript Course"
       }
     ],
     "Academic": [
       {
-        "degree": "Atomic Master",
-        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-        "endDate": "Jan 2017",
-        "institution": "MIT",
+        "degree": "Informatics Engineering bachelors",
+        "description": "Granted a full scholarship for sports excellence",
+        "endDate": "Dec 2020",
+        "institution": "Universidad Latinoamericana de Ciencia y Tecnología (ULACIT). San José, Costa Rica.",
         "startDate": "Jan 2018"
-      },
-      {
-        "degree": "Space Engineering",
-        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-        "endDate": "Decenber 2015",
-        "institution": "Harvard",
-        "startDate": "Jan 2017"
       }
     ],
     "experience": [
       {
-        "company": "PugStar",
-        "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "company": "WiredAvenue",
+        "endDate": "July 2020",
+        "jobDescription": "Front page for the NovaChat product (NextJS, Styled Components, Strapi). Including a blog build with strapi",
+        "jobTitle": "React Developer",
+        "startDate": "July 2020"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
+        "company": "OMNi the Super App",
+        "endDate": "Dec 2020",
+        "jobDescription": "Build and contribute to multiple products for the company using NextJS, Sass, Storybook",
+        "jobTitle": "Developer",
+        "startDate": "Sept 2020"
+      },
+      {
+        "company": "Pure Insights",
+        "endDate": "Mar 2022",
+        "jobDescription": "Search Engine FrontEnd for Pure Insights. (NextJS, Typescript, Styled Components, Storybook, React Testing Library)",
+        "jobTitle": "React Developer",
+        "startDate": "Jul 2021"
+      },
+      {
+        "company": "Crooks and Company",
+        "endDate": "Apr 2022",
+        "jobDescription": "Developed a landing page using GatsbyJS, Typescript GraphQL and TailwindCSS. Used Strapi for the backend.",
+        "jobTitle": "React Developer",
+        "startDate": "Dec 2021"
+      },
+      {
+        "company": "Crooks and Company",
+        "endDate": "Aug 2022",
+        "jobDescription": "Worked with NextJS, Typescript, GraphQL, Styled-Components and MUI. Managed AWS Amplify, DynamoDB, Cognito, S3 and AppSync.",
+        "jobTitle": "Junior Full-Stack Developer",
+        "startDate": "Feb. 2022"
+      },
+      {
+        "company": "Wondersauce",
+        "endDate": "Present",
+        "jobDescription": "Working with different clients using NextJS, Typescript, TailwindCSS, Contentful, MapboxGL and others.",
         "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "startDate": "Sept 2022"
       }
     ],
     "skills": [
       {
-        "name": "HTML5",
-        "percentage": "75%"
-      },
-      {
-        "name": "CSS",
-        "percentage": "25%"
-      },
-      {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "0%"
+      },
+      {
+        "name": "Typescript",
+        "percentage": "0%"
       },
       {
         "name": "React",
-        "percentage": "90%"
+        "percentage": "0%"
+      },
+      {
+        "name": "NextJS",
+        "percentage": "0%"
+      },
+      {
+        "name": "GraphQL",
+        "percentage": "0%"
+      },
+      {
+        "name": "Styled Components",
+        "percentage": "0%"
+      },
+      {
+        "name": "TailwindCSS",
+        "percentage": "0%"
+      },
+      {
+        "name": "Web3.js",
+        "percentage": "0%"
+      },
+      {
+        "name": "Solidity",
+        "percentage": "0%"
+      },
+      {
+        "name": "Alchemy",
+        "percentage": "0%"
       }
     ],
     "interest": [
-      "javascript",
-      "develop",
-      "backend",
-      "frontend"
+      "typescript",
+      "frontend", 
+      "blockchain", 
+      "web3",
+      "nfts"
     ],
     "languages": [
       {
         "name": "Spanish",
-        "percentage": "90%"
+        "percentage": "100%"
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "percentage": "90%"
       }
     ],
     "social": [
       {
-        "name": "facebook",
-        "url": "https://facebook.com/"
-      },
-      {
         "name": "twitter",
-        "url": "https://twitter.com/"
+        "url": "https://twitter.com/robertramdev"
       },
       {
         "name": "github",
-        "url": "https://github.com/"
+        "url": "https://github.com/robertram"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/robert-ramirez-marin/"
       }
     ]
   }
